@@ -1,0 +1,46 @@
+{
+  "varias": [
+    {
+        "titulo": "Tarea 1",
+        "responsable": "Marco",
+        "descripcion": "ITM",
+        "prioridad": "Baja"
+    },
+    {
+        "titulo": "Tarea 2",
+        "responsable": "Alejandro",
+        "descripcion": "ITM 2",
+        "prioridad": "Media"
+    },
+    {
+        "titulo": "Tarea 3",
+        "responsable": "Ishizu",
+        "descripcion": "ITM 3",
+        "prioridad": "Alta"
+    },
+    {
+        "titulo": "Tarea 4",
+        "responsable": "Javier",
+        "descripcion": "ITM 4",
+        "prioridad": "Baja"
+    },
+    {
+        "titulo": "Tarea 5",
+        "responsable": "Manuel",
+        "descripcion": "ITM 5",
+        "prioridad": "Media"
+    },
+    {
+        "titulo": "Tarea 6",
+        "responsable": "Jose",
+        "descripcion": "ITM 6",
+        "prioridad": "Alta"
+    },
+    {
+        "titulo": "Tarea 7",
+        "responsable": "David",
+        "descripcion": "ITM 7",
+        "prioridad": "Alta"
+    }
+  ]
+}
